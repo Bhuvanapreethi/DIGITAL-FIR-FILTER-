@@ -26,4 +26,6 @@ The filter processes one input per clock cycle.
 It takes 4 cycles to "fill the pipeline" and start giving meaningful output.The implementation uses basic Verilog constructs and is efficient for FPGA synthesis.
 This project gave me practical experience in writing synthesizable Verilog, understanding signal delay in filters, and using waveform tools for debugging. It also improved my grasp of how digital systems handle real-time signal processing.
 In conclusion, I successfully designed and simulated a working FIR filter using Verilog as part of my Codetech assignment. I understood the internal architecture of digital filters, verified functionality through simulation, and analyzed performance — fulfilling all deliverables of the task.
+#output
+![Image](https://github.com/user-attachments/assets/ef416c72-0b10-486d-9c34-4047f7a96df2)
 
